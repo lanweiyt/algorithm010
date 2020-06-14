@@ -1,4 +1,4 @@
-package com.test;//暴力法，循环k，每次移动一个位置，时间复杂度O（n*k）或者O（n^2)
+//暴力法，循环k，每次移动一个位置，时间复杂度O（n*k）或者O（n^2)
 public void rotate(int[] nums, int k) {
     if (nums == null || nums.length < 2 || k < 0) {
         return;
