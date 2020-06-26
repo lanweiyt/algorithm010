@@ -5,3 +5,12 @@
     3.二叉树的遍历，前中后，父左右、左父右、左右父
     4.图的深度和广度优先，需要加强练习
     5.二叉堆，在Java中可以使用PriorityQueue来实现大顶堆和小顶堆
+    
+    
+    #学号:G20200343070290
+    #姓名:兰威
+    #班级:2班
+    #小组:10组
+    #语言：Java
+    #作业链接：https://github.com/lanweiyt/algorithm010/blob/master/Week02
+    #总结链接：https://github.com/lanweiyt/algorithm010/blob/master/Week02/NOTE.md
