@@ -11,7 +11,7 @@
     a.确定递归结束条件；
     b.处理本层逻辑；
     c.向下递归；
-    d.处理递归的返回值，撤销上一次递归的操作。
+    d.处理递归的返回值，撤销下一层递归操作对当前值的改变。
 </p>
 
 <p>
@@ -22,4 +22,13 @@
 </p>
 <p>
     5.在winter大神的视频中，了解斐波那契数列，有数学的公式可以求解。看完后，有点晕，后续再看看……
+</p>
+<p>
+    6.分治代码模板：
+    
+    # recursion terminator  边界处理
+    # prepare data 处理数据
+    # conquer subproblems 拆分问题
+    # process and generate the final result 组装结果
+    # revert the current level states 撤销下层递归对当前层状态的修改
 </p>
